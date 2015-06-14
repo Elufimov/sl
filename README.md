@@ -1,6 +1,6 @@
 <h1>Doge Dogomotive</h1>
-<p>This is a silly fork of Steam Locomotive by Toyoda Masashi that replaces an animated train with a static doge. </p>
-<code><br />
+<p>This is a silly fork of Steam Locomotive by Toyoda Masashi that replaces an animated train with a static doge. </p><br />
+<br />
                 Y.                      _            <br />
                 YiL                   .```.          <br />
                 Yii;                .; .;;`.         <br />
@@ -23,7 +23,7 @@ _.._ :`4MM$!YYYYYYYYYii,.__.diii$$YYYYYYYYYYY        <br />
       `$$$$$$$YYYYYYYYYYYYY$$$$$$YYYYYYYYiiiYYYYYY   <br />
       .i!$$$$$$YYYYYYYYY$$$$$$YYY$$YYiiiiiiYYYYYYY   <br />
      :YYiii$$$$$$$YYYYYYY$$$$YY$$$$YYiiiiiYYYYYYi'   <br />
-</code>
-<small>The ascii image of the dog was found somewhere on Reddit</small>
+<br />
+<small style="font-size: 10px;">The ascii image of the dog was found somewhere on Reddit</small>
 
-<gray>Please address to the original repo: </gray><a href="https://github.com/mtoyoda/sl">https://github.com/mtoyoda/sl</a>
+<b>Please address to the original repo: </b><a href="https://github.com/mtoyoda/sl">https://github.com/mtoyoda/sl</a>
