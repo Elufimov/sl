@@ -1,28 +1,28 @@
 <h1>Doge Dogomotive</h1>
 <p>This is a silly fork of Steam Locomotive by Toyoda Masashi that replaces an animated train with a static doge. </p>
-<code>
-                Y.                      _           
-                YiL                   .```.         
-                Yii;                .; .;;`.        
-                YY;ii._           .;`.;;;; :        
-                iiYYYYYYiiiii;;;;i` ;;::;;;;        
-            _.;YYYYYYiiiiiiYYYii  .;;.   ;;;        
-         .YYYYYYYYYYiiYYYYYYYYYYYYii;`  ;;;;        
-       .YYYYYYY$$YYiiYY$$$$iiiYYYYYY;.ii;`..        
-      :YYY$!.  TYiiYY$$$$$YYYYYYYiiYYYYiYYii.       
-      Y$MM$:   :YYYYYY$!'``'4YYYYYiiiYYYYiiYY.      
-   `. :MM$$b.,dYY$$Yii' :'   :YYYYllYiiYYYiYY       
-_.._ :`4MM$!YYYYYYYYYii,.__.diii$$YYYYYYYYYYY       
-.,._ $b`P`     '4$$$$$iiiiiiii$$$$YY$$$$$$YiY;      
-   `,.`$:       :$$$$$$$$$YYYYY$$$$$$$$$YYiiYYL     
-    '`;$$.    .;PPb$`.,.``T$$YY$$$$YYYYYYiiiYYU:    
-    ;$P$;;: ;;;;i$y$'!Y$$$b;$$$Y$YY$$YYYiiiYYiYY    
-    $Fi$$ .. ``:iii.`-':YYYYY$$YY$$$$$YYYiiYiYYY    
-    :Y$$rb ````  `_..;;i;YYY$YY$$$$$$$YYYYYYYiYY:    
-     :$$$$$i;;iiiiidYYYYYYYYYY$$$$$$YYYYYYYiiYYY.   
-      `$$$$$$$YYYYYYYYYYYYY$$$$$$YYYYYYYYiiiYYYYYY  
-      .i!$$$$$$YYYYYYYYY$$$$$$YYY$$YYiiiiiiYYYYYYY  
-     :YYiii$$$$$$$YYYYYYY$$$$YY$$$$YYiiiiiYYYYYYi'  
+<code><br />
+                Y.                      _            <br />
+                YiL                   .```.          <br />
+                Yii;                .; .;;`.         <br />
+                YY;ii._           .;`.;;;; :         <br />
+                iiYYYYYYiiiii;;;;i` ;;::;;;;         <br />
+            _.;YYYYYYiiiiiiYYYii  .;;.   ;;;         <br />
+         .YYYYYYYYYYiiYYYYYYYYYYYYii;`  ;;;;         <br />
+       .YYYYYYY$$YYiiYY$$$$iiiYYYYYY;.ii;`..         <br />
+      :YYY$!.  TYiiYY$$$$$YYYYYYYiiYYYYiYYii.        <br />
+      Y$MM$:   :YYYYYY$!'``'4YYYYYiiiYYYYiiYY.       <br />
+   `. :MM$$b.,dYY$$Yii' :'   :YYYYllYiiYYYiYY        <br />
+_.._ :`4MM$!YYYYYYYYYii,.__.diii$$YYYYYYYYYYY        <br />
+.,._ $b`P`     '4$$$$$iiiiiiii$$$$YY$$$$$$YiY;       <br />
+   `,.`$:       :$$$$$$$$$YYYYY$$$$$$$$$YYiiYYL      <br />
+    '`;$$.    .;PPb$`.,.``T$$YY$$$$YYYYYYiiiYYU:     <br />
+    ;$P$;;: ;;;;i$y$'!Y$$$b;$$$Y$YY$$YYYiiiYYiYY     <br />
+    $Fi$$ .. ``:iii.`-':YYYYY$$YY$$$$$YYYiiYiYYY     <br />
+    :Y$$rb ````  `_..;;i;YYY$YY$$$$$$$YYYYYYYiYY:    <br />
+     :$$$$$i;;iiiiidYYYYYYYYYY$$$$$$YYYYYYYiiYYY.    <br />
+      `$$$$$$$YYYYYYYYYYYYY$$$$$$YYYYYYYYiiiYYYYYY   <br />
+      .i!$$$$$$YYYYYYYYY$$$$$$YYY$$YYiiiiiiYYYYYYY   <br />
+     :YYiii$$$$$$$YYYYYYY$$$$YY$$$$YYiiiiiYYYYYYi'   <br />
 </code>
 <small>The ascii image of the dog was found somewhere on Reddit</small>
 
